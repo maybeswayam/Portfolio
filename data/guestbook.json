@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1765260764585",
+    "name": "Vinay",
+    "gender": "male",
+    "message": "Cool Portfolio!",
+    "date": "12/9/2025",
+    "createdAt": 1765260764585
+  },
+  {
+    "id": "1765260746680",
+    "name": "DevKenny",
+    "gender": "male",
+    "message": "Your portfolio inspired me to rebuild mine using Next.js! The animations are super smooth.",
+    "date": "12/9/2025",
+    "createdAt": 1765260746688
+  },
+  {
+    "id": "1765215256739",
+    "name": "Sam",
+    "gender": "male",
+    "message": "OHHH ITS WORKING YAYYYYYYYYYY",
+    "date": "12/8/2025",
+    "createdAt": 1765215256739
+  },
+  {
+    "id": "1765215241134",
+    "name": "Sam",
+    "gender": "male",
+    "message": "Just checking if my implementation is working as it should or not :)",
+    "date": "12/8/2025",
+    "createdAt": 1765215241148
+  }
+]
