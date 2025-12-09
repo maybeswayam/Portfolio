@@ -201,7 +201,7 @@ export default function About() {
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+                  <a href="https://drive.google.com/file/d/1cadUq8e4pOUyXA9W5VKBWqhNPDyf8_h9/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                     <Button
                       size="lg"
                       className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700"
@@ -436,7 +436,7 @@ export default function About() {
               Start a Project
               <ArrowRight className="ml-2 h-4 w-4" />
             </Button>
-            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/1cadUq8e4pOUyXA9W5VKBWqhNPDyf8_h9/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="outline">
                 <ExternalLink className="mr-2 h-4 w-4" />
                 View Resume
